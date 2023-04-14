@@ -1,2 +1,2 @@
 ### Compilador usado
-C18 __(GCC con -std=c18)__
+C18 *(GCC con -std=c18)*
